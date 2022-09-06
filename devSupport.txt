@@ -1,0 +1,2 @@
+command to start local server :
+    # uvicorn api:app --reload 
