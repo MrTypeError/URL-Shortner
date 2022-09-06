@@ -1,2 +1,5 @@
+This is a support file for the dev to work throgh the project smoothly 
+
+
 command to start local server :
     # uvicorn api:app --reload 
